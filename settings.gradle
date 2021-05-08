@@ -1,0 +1,2 @@
+includeBuild './robustsdk'
+include ':app'

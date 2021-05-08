@@ -1,0 +1,5 @@
+rootProject.name = "robustsdk"
+include ':autopatchbase'
+include ':auto-patch-plugin'
+include ':gradle-plugin'
+include ':patch'
